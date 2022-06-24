@@ -253,3 +253,4 @@
 /Users/admin/Desktop/MAUI/HendonEventsApp/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/HendonEventsApp.pdb
 /Users/admin/Desktop/MAUI/HendonEventsApp/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/HendonEventsApp.genruntimeconfig.cache
 /Users/admin/Desktop/MAUI/HendonEventsApp/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/ref/HendonEventsApp.dll
+/Users/admin/Desktop/MAUI/HendonEventsApp/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/CommunityToolkit.Mvvm.dll
