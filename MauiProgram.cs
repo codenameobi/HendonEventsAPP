@@ -18,5 +18,5 @@ public static class MauiProgram
 		builder.Services.AddSingleton<MainViewModel>();
 
 		return builder.Build();
-	}
+	} 
 }

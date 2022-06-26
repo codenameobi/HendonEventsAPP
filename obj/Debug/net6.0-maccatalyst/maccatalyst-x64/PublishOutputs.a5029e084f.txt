@@ -1,4 +1,5 @@
 /Users/admin/Desktop/MAUI/HendonEventsApp/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../HendonEventsApp.app/Contents/MonoBundle/icudt.dat
+/Users/admin/Desktop/MAUI/HendonEventsApp/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../HendonEventsApp.app/Contents/MonoBundle/CommunityToolkit.Mvvm.dll
 /Users/admin/Desktop/MAUI/HendonEventsApp/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../HendonEventsApp.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.dll
 /Users/admin/Desktop/MAUI/HendonEventsApp/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../HendonEventsApp.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/admin/Desktop/MAUI/HendonEventsApp/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../HendonEventsApp.app/Contents/MonoBundle/Microsoft.Extensions.DependencyInjection.dll

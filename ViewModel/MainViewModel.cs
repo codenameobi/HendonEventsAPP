@@ -17,16 +17,25 @@ namespace HendonEventsApp.ViewModel
         ObservableCollection<string> items;
 
         [ObservableProperty]
-        string text;
+        string text; 
 
         [ICommand]
-        public void Add()
+        void Add()
         {
             if (string.IsNullOrWhiteSpace(Text))
                 return;
             Items.Add(Text);
             //add our item
             Text = string.Empty;
+        }
+
+        [ICommand]
+        void Delete(string s)
+        {
+            if (Items.Contains(s))
+            {
+                Items.Remove(s);
+            }
         }
     }
 

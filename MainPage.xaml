@@ -5,7 +5,7 @@
              xmlns:viewmodel="clr-namespace:HendonEventsApp.ViewModel"
              x:DataType="viewmodel:MainViewModel">
 			 
-       <Grid RowDefinitions="*,*,*,*,*" ColumnDefinitions="*,*">
+       <Grid RowDefinitions="100,*,*,*,*" ColumnDefinitions="*,*">
         <Image
             Grid.ColumnSpan="2" Grid.Row="0"
             Source="dotnet_bot.png"
@@ -31,7 +31,9 @@
                         <SwipeView.RightItems>
                             <SwipeItems>
                                 <SwipeItem Text="Delete"
-                                           BackgroundColor="Red"/>
+                                           BackgroundColor="Red"
+                                           Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodel:MainViewModel}}, Path= DeleteCommand}"
+                                           CommandParameter="{Binding .}"/>
                             </SwipeItems>
 
                         </SwipeView.RightItems>

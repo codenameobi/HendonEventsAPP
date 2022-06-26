@@ -55,4 +55,9 @@
 	<ItemGroup>
 	  <PackageReference Include="CommunityToolkit.Mvvm" Version="7.1.2" />
 	</ItemGroup>
+	<ItemGroup>
+	  <MauiXaml Update="DetailPage.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	</ItemGroup>
 </Project>
