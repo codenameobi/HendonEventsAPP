@@ -1,25 +1,31 @@
 ﻿<Properties StartupConfiguration="{5DC61CFD-013D-4AB8-93FF-385146F940F4}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.ItemProperties.HendonEventsApp PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/admin/Desktop/MAUI/HendonEventsApp/MainPage.xaml.cs" relfile="MainPage.xaml.cs" line="11" column="1" />
-      <Breakpoint file="/Users/admin/Desktop/MAUI/HendonEventsApp/ViewModel/MainViewModel.cs" relfile="ViewModel/MainViewModel.cs" line="25" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.HendonEventsApp PreferredExecutionTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DetailPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewModel/MainViewModel.cs">
     <Files>
       <File FileName="MainPage.xaml.cs" Line="11" Column="1" />
-      <File FileName="MainPage.xaml" Line="36" Column="72" />
-      <File FileName="ViewModel/MainViewModel.cs" Line="32" Column="18" />
+      <File FileName="MainPage.xaml" Line="41" Column="45" />
+      <File FileName="ViewModel/MainViewModel.cs" Line="38" Column="14" />
       <File FileName="MauiProgram.cs" Line="21" Column="4" />
-      <File FileName="DetailPage.xaml" Line="4" Column="30" />
+      <File FileName="DetailPage.xaml" Line="13" Column="1" />
+      <File FileName="ViewModel/DetailViewModel.cs" Line="1" Column="1" />
+      <File FileName="DetailPage.xaml.cs" Line="10" Column="23" />
+      <File FileName="AppShell.xaml" Line="1" Column="1" />
+      <File FileName="AppShell.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HendonEventsApp" expanded="True">
             <Node name="HendonEventsApp" expanded="True">
-              <Node name="DetailPage.xaml" selected="True" />
+              <Node name="ViewModel" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -29,8 +35,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

@@ -37,6 +37,12 @@ namespace HendonEventsApp.ViewModel
                 Items.Remove(s);
             }
         }
+
+        [ICommand]
+        async Task Tap(string s)
+        {
+            await Shell.Current.GoToAsync($"{nameof(DetailPage)}?Text={s}");
+        }
     }
 
 }
